@@ -5,6 +5,18 @@
     background-color: white;
     margin: 0;
     padding: 0;
+    h1 {
+        font-size: 2rem;
+    }
+    h2 {
+        font-size: 1.7rem;
+    }
+    h3 {
+        font-size: 1.3rem;
+    }
+    p {
+        font-size: 1rem;
+    }
 }
 
 header {
@@ -79,5 +91,31 @@ li:hover {
     color: gray;    
 }
 
+main {
+    overflow: auto;
+    padding-bottom: 3rem;
 
-  
+    input[type="text"] {
+        width: 27rem;
+        padding: .2rem;
+    }
+
+    label {
+        margin: 3rem;
+    }
+
+    textarea {
+        width: 30rem;
+        height: 15rem;
+        border: 1px solid;
+        resize: none;
+    }
+
+    button {
+        font-size: 1.3rem;
+        width: 7rem;
+        height: auto;
+        background-color: black;
+        color: white;
+    }   
+}
