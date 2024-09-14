@@ -5,7 +5,7 @@ Pizzaria e Hamburgueria da May é um site desenvolvido para oferecer uma experi�
 # 💨 - Praticidade
 torna mais dinâmico o cotidiano da pizzaria
 
-# 🫰 - Simples e barato
+# 🍕 - Simples e barato
 feito de forma simples mas que ajuda os clientes a se encontrarem com a pizzaria
 
 # 🖊️ - Funcionalidades
